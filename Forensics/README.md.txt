@@ -1,0 +1,2 @@
+🚀 Forensics Challenges - picoCTF 2024
+This repository serves as a digital vault for my forensic write-ups. 🕵️‍♂️ Dive in to discover detailed investigations into intriguing digital mysteries, where each write-up meticulously dissects the evidence to unveil the truth behind it. 🔍💡
