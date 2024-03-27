@@ -29,4 +29,6 @@ To decrypt it, we will use this command:
 
 echo -n '7069636f4354467b6178386d433052553676655f4e5838356c346178386d436c5f62313132616535377d' | xxd -r -p
 
+![image4](https://github.com/Chiv4lrian/picoCTF-2024/assets/153472003/e1945ad1-fcc0-4f71-b36b-be7a34370f85)
+
 Flag : picoCTF{ax8mC0RU6ve_NX85l4ax8mCl_b112ae57}
