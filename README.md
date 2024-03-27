@@ -1,2 +1,1 @@
-# picoCTF-2024
-Welcome to my comprehensive write-up for the PicoCTF 2024 challenge.
+Welcome to my write-up for the PicoCTF 2024 GitHub challenges! 🚀 In this guide, I'll walk you through the solutions and techniques I used to tackle these intriguing tasks. Let's dive in and unravel the secrets together! 🔍💻
