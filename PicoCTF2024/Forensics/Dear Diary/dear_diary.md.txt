@@ -1,0 +1,15 @@
+The challenge gave us a disk to find a flag within it. 
+
+First we must unzip it and I use the command :
+
+gzip -d disk.flag.img.gz
+
+After that I putted the file in the autopsy so i can have a easier look in its contents 
+
+I tried to look at its image details and data unit but i didnt saw smething unusual so i tried to look at its files by searching some keywords in it like pico, flag and txt.
+
+As I tried it I found that within its txt files there's something usnusual that I see and that is there is a picoCTF with each file but they are in separate manner
+
+so i deduced that i will view all of the txt file until I complted the flag.
+
+Flag : picoCTF{1_533_n4m35_80d24b30}
