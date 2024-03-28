@@ -5,7 +5,9 @@ The challenge requires us to change the date of the specified picture to set the
 First, let's determine which dates we should change within the jpg file. We'll run the command:
 
 exiftool original.jpg
+
 ![image2](https://github.com/Chiv4lrian/picoCTF-2024/assets/153472003/97deac1e-cf46-49e9-88e3-04efafbaa384)
+
 ![image3](https://github.com/Chiv4lrian/picoCTF-2024/assets/153472003/9be26126-0140-4a6b-81c9-41cd282ec7d9)
 
 Now that we know which dates to change, I used the following command to achieve this:
